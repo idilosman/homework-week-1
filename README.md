@@ -14,4 +14,7 @@ When you view the title element you find a concise, descriptive title
 
 * The URL of the deployed application.
 
+https://idilosman.github.io/homework-week-1/
+
 * The URL of the GitHub repository, with a unique name and a README 
+https://github.com/idilosman/homework-week-1
